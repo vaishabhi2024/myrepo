@@ -1,0 +1,23 @@
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;23r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[23;1H[97m[41mE325: ATTENTION[m
+Found a swap file by the name ".git/.config.swp"
+[10Cowned by: avaish   dated: Thu Nov 21 17:56:44 2024
+[9Cfile name: ~avaish/git_project/.git/config
+[10Cmodified: no
+[9Cuser name: avaish   host name: centos01
+[8Cprocess ID: 15494 (STILL RUNNING)
+While opening file ".git/config"
+[13Cdated: Thu Nov 21 17:55:46 2024
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r .git/config"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".git/.config.swp"
+    to avoid this message.
+
+[32mSwap file ".git/.config.swp" already exists![m
+[32m[O]pen Read-Only, (E)dit anyway, (R)ecover, (Q)uit, (A)bort: [?25h[m[23;1H[K[23;1H
+Interrupt: [32mPress ENTER or type command to continue[m[1;1H[L[?25l[2;1H[94m~                                                                           [3;1H~                                                                           [4;1H~                                                                           [5;1H~                                                                           [6;1H~                                                                           [7;1H~                                                                           [8;1H~                                                                           [9;1H~                                                                           [10;1H~                                                                           [11;1H~                                                                           [12;1H~                                                                           [13;1H~                                                                           [14;1H~                                                                           [15;1H~                                                                           [16;1H~                                                                           [17;1H~                                                                           [18;1H~                                                                           [19;1H~                                                                           [20;1H~                                                                           [21;1H~                                                                           [22;1H~                                                                           [m[23;59H0,0-1[9CAll[1;1H[?25h[?25l[23;49H^V[1;1H[23;49H1x1[1;1H[23;1H[1m-- VISUAL BLOCK --[m[23;49H[K[23;49H1x1[1;1H[23;59H0,0-1[9CAll[1;1H[?25h[?25l[23;49H^Z [1;1H[23;1H
+[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t
